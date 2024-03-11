@@ -6,8 +6,8 @@
 <h1 align="center">
   Gatsby Minimal TypeScript Starter
 </h1>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/de366396-1cf1-4617-b614-1271271f2272/deploy-status)](https://app.netlify.com/sites/lambent-alfajores-de2961/deploys)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de366396-1cf1-4617-b614-1271271f2272/deploy-status)](https://app.netlify.com/sites/lambent-alfajores-de2961/deploys)
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -44,6 +44,7 @@
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
 ## 🚀 Quick start (Netlify)
+
 
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
